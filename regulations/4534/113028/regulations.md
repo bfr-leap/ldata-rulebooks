@@ -3,7 +3,7 @@
 
 **Document Version:** 046-12.02.2024
 
-*Rules that have been added or modified in this version will be highlighted in yellow.*
+*Rules that have been added or modified in this version will be highlighted in <mark>yellow</mark>.*
 
 
 ## TABLE OF CONTENTS
@@ -177,9 +177,10 @@ Sessions are Thursday Nights using the following format (All times are US EST or
 
 4.1.12 - New drivers who join while a season is in progress will be required to start their first race from the back of the grid.
 
-4.1.13 - Throughout the feature race, drivers must complete a mandatory pit stop and will be required to change tires. Please see the below parameters for when this pit stop must be completed:
-- You are not permitted to pit prior to Lap 3. This means you must enter the pit lane on, or after lap 3.
-- You are not permitted to pit beyond the final 3 laps of the race. This means you must enter the pit lane with at least 3 to go in the race.
+
+<mark>4.1.13 - Throughout the feature race, drivers must complete a mandatory pit stop and will be required to change tires. Please see the below parameters for when this pit stop must be completed:</mark>
+- <mark>You are not permitted to pit prior to Lap 3. This means you must enter the pit lane on, or after lap 3.</mark>
+- <mark>You are not permitted to pit beyond the final 3 laps of the race. This means you must enter the pit lane with at least 3 to go in the race.</mark>
 
 ### 4.2 - Free Practice
 
